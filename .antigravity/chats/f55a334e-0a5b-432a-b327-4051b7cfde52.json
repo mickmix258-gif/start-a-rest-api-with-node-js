@@ -40,6 +40,18 @@
       "created_at": "2026-10-18T14:37:10.916Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "c391001c-99a6-41bf-a7e8-e356489d2afb",
+      "role": "agent",
+      "content": "ผมคือผู้ช่วย AI สำหรับการพัฒนาซอฟต์แวร์และการเขียนโค้ดแบบเต็มรูปแบบ (Agentic Coding Assistant) ครับ โดยมีความสามารถหลัก ๆ ดังนี้:\n\n---\n\n### 1. การพัฒนาและเขียนโค้ด (Coding & Development)\n* **สร้างและจัดการโปรเจกต์:** สร้างโครงสร้างโฟลเดอร์ ตั้งค่าโปรเจกต์ (เช่น Node.js, Express, TypeScript, REST API, Database ORM ต่าง ๆ)\n* **เขียนและแก้ไขโค้ด:** เพิ่มฟีเจอร์, แก้ไขไฟล์เดิม, refactor โค้ด, สร้าง API endpoints, ระบบ Authen, Middleware, เชื่อมต่อฐานข้อมูล ฯลฯ\n* **ติดตั้งและบริหารจัดการ Package:** รันคำสั่ง `npm`, `yarn`, `pnpm` เพื่อติดตั้งโมดูลและไลบรารีที่จำเป็น\n\n### 2. การรันคำสั่งและควบคุมระบบ (Terminal & System Execution)\n* **รันคำสั่งบน Linux:** สามารถสั่งรันคำสั่ง shell ได้โดยตรง เช่น รันเซิร์ฟเวอร์, build โปรเจกต์, รัน migration\n* **Background Tasks:** รันเซอร์วิสหรือเซิร์ฟเวอร์ไว้เบื้องหลัง พร้อมตรวจสอบ log และสถานะการทำงาน\n\n### 3. การทดสอบและแก้ไขปัญหา (Debugging & Testing)\n* **ตรวจจับและแก้บั๊ก:** อ่าน error trace, วิเคราะห์สาเหตุ และแก้ไขโค้ดให้ทำงานได้ถูกต้อง\n* **เขียนและรัน Test:** สร้าง unit test / integration test (เช่น Jest, Supertest) และรันตรวจสอบผลทันที\n\n### 4. การค้นคว้าและการวางแผน (Research & Planning)\n* **สืบค้นข้อมูล:** ค้นหา Document ล่าสุด, วิธีแก้ error หรือ Best Practices จากอินเทอร์เน็ต\n* **วางแผนสถาปัตยกรรม (Architecture):** ช่วยออกแบบโครงสร้าง API, Database Schema, Data Flow ก่อนเริ่มลงมือเขียน\n* **Subagents:** แบ่งงานย่อยให้ agent ผู้ช่วยทำงานวิจัยคู่ขนานได้\n\n### 5. ความพิเศษเฉพาะสำหรับโปรเจกต์นี้\n* **Git อัตโนมัติ:** ทุกไฟล์ที่สร้างหรือแก้ไข จะถูก **commit และ push ขึ้น GitHub** ให้ทันทีอัตโนมัติ ไม่ต้องสั่ง push เอง\n* **Live Preview:** มีลิงก์สำหรับดูการแสดงผลและทดสอบโปรเจกต์ได้แบบเรียลไทม์\n\n---\n\nคุณมีไอเดียหรือแผนที่อยากให้เริ่มทำสำหรับโปรเจกต์นี้อย่างไร สั่งงานแรกได้เลยครับ!",
+      "status": "completed",
+      "model": "gemini-3.8-flash-medium",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "ebd58158-b2f0-413c-a0cb-79c86f7c824c",
+      "created_at": "2026-10-18T14:37:29.711Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
