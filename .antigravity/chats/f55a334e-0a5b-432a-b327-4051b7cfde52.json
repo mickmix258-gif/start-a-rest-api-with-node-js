@@ -57,13 +57,13 @@
       "id": "9d6d6734-9bd9-46c7-a654-7dd846560745",
       "role": "user",
       "content": "I attached an image: images/photo-1792334333-1.jpg.\n\nrepoที่มี107 ให้คุณเลือกrepoใดก็ได้ และ เลือกกี่repoก็ ขอบเขตที่เลือกคือ ให้คุณเลือกrepoโดยเห็นทั้งหมดทุกrepoและเนื้อหาข้างใน แล้วเลือกrepoที่คุณสนใจ กำหนดเป้าหมายอีกก็คือ คุณท้าทายตัวคุณเองและโชว์ฝีมือให้ผมเห็นการทำงานเพื่อให้ผมสั่ง/กำหนดสิ่งต่างๆและเลือกงานที่เหมาะกับคุณ",
-      "status": "pending",
+      "status": "cancelled",
       "model": "gemini-3.8-flash-medium",
       "client_type": "gemini-bridge",
       "parent_message_id": null,
       "created_at": "2026-10-18T14:45:55.645Z",
       "sender": "ios",
-      "is_cancelled": false
+      "is_cancelled": true
     }
   ]
 }
